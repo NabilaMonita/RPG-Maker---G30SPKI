@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Letnan Muda","characterIndex":1,"characterName":"Letnan Muda","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"LetnanMuda","traits":[],"initialLevel":1,"maxLevel":99,"name":"Letnan Muda","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"enemy","characterIndex":0,"characterName":"enemy","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"enemy","traits":[],"initialLevel":1,"maxLevel":99,"name":"enemy","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Ahmad Yani","characterIndex":1,"characterName":"7 Pahlawan","classId":1,"equips":[3,0,2,3,4],"faceIndex":4,"faceName":"7 Pahlawan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jendral Soeharto","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Mayjen Sutoyo","characterIndex":0,"characterName":"7 Pahlawan","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"7 Pahlawan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mayjem M.Yasin","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":1,"characterName":"7 Pahlawan","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"7 Pahlawan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kolonel Sarwo","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
